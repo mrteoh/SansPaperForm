@@ -1,0 +1,12 @@
+export const USER_ACTION = {
+  SAGA: {
+    LOGIN: 'LOGIN',
+    LOGOUT: 'LOGOUT',
+    FETCH_USER_DATA: 'FETCH_USER_DATA',
+  },
+  REDUCER: {
+    UPDATE_TOKEN: 'UPDATE_TOKEN',
+    LOGIN_ERROR: 'LOGIN_ERROR',
+    LOAD_USER_DATA: 'LOAD_USER_DATA',
+  },
+};

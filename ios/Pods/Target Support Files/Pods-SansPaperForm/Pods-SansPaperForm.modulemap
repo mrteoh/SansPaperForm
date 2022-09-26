@@ -1,0 +1,6 @@
+module Pods_SansPaperForm {
+  umbrella header "Pods-SansPaperForm-umbrella.h"
+
+  export *
+  module * { export * }
+}
