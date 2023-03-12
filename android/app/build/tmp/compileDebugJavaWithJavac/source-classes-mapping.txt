@@ -1,0 +1,14 @@
+com/sanspaper/form/ReactNativeFlipper.java
+ com.sanspaper.form.ReactNativeFlipper
+ com.sanspaper.form.ReactNativeFlipper$1
+ com.sanspaper.form.ReactNativeFlipper$2
+ com.sanspaper.form.ReactNativeFlipper$2$1
+com/sanspaper/form/MainApplication.java
+ com.sanspaper.form.MainApplication
+ com.sanspaper.form.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/sanspaper/form/BuildConfig.java
+ com.sanspaper.form.BuildConfig
+com/sanspaper/form/MainActivity.java
+ com.sanspaper.form.MainActivity

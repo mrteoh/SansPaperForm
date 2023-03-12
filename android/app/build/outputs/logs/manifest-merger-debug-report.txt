@@ -1,0 +1,731 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-flipper] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-flipper/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-10:12
+MERGED from [com.facebook.flipper:flipper:0.93.0] /Users/sanpaper/.gradle/caches/transforms-3/d9b9abd302c8ab8b0f3f2baf084a5db3/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.93.0] /Users/sanpaper/.gradle/caches/transforms-3/9b2580e987421153a769ae2fb0176bb0/transformed/jetified-flipper-network-plugin-0.93.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.93.0] /Users/sanpaper/.gradle/caches/transforms-3/2a7817c9f23da5c4230d9c3baf21c690/transformed/jetified-flipper-fresco-plugin-0.93.0/AndroidManifest.xml:8:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sanpaper/.gradle/caches/transforms-3/e4c3b6607461910e1763f09a1a660a31/transformed/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-sqlite-storage] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-sqlite-storage/platforms/android-native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_async-storage] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_checkbox] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/checkbox/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_netinfo] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:appcenter] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/appcenter/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:appcenter-analytics] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/appcenter-analytics/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:appcenter-crashes] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/appcenter-crashes/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-fs] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-geolocation-service] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-geolocation-service/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-33:12
+MERGED from [:react-native-navigation] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-navigation/lib/android/app/build/intermediates/merged_manifest/reactNative63Debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-safe-area-context] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-signature-capture] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-signature-capture/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:vision-camera-code-scanner] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/vision-camera-code-scanner/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vision-camera] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-vision-camera/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-45:12
+MERGED from [com.facebook.react:react-native:0.65.1] /Users/sanpaper/.gradle/caches/transforms-3/c22b0dfc2d455c0e7d11ca8c6ae8c92c/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.wix-playground:reflow-animator:1.0.6] /Users/sanpaper/.gradle/caches/transforms-3/dc5e3795f51b9ab44faa1998a4a6ff60/transformed/jetified-reflow-animator-1.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/9f9486c360f8703c12d48ef667ae1174/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/e83efb6477e5ee3f81534ab23c1cec8a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/96ef13d57aea044bcbc9fbf4dde293e4/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r250230] /Users/sanpaper/.gradle/caches/transforms-3/7eb4fe937e073d12f1043dcd8b2a8207/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-reanimated/android/build/.transforms/4c9e3d220e3386bd173f21542b98d9ae/transformed/jetified-react-native-reanimated-65-jsc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/0da29490c11f002186d1d2c259d973bd/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/39f025b01ec15ba91e69f8e8ebff3b8e/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/88c02a1b44b274b5e5e12eece112b867/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/d091d14ad245babf4dfffd2bc293a2e2/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/f7f082169afe124cbf5ccf3aa157d570/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/de2124d0fc447402fae60241c354d10f/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/c8281333b20383a5386983f2a2d12b1d/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/5ba4f2738a046190a9b809b0132cea46/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/513961a8f9c62187d652f2ef872852ed/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/c0d58bf0d3dda6054a20ed7a669f3e1d/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/sanpaper/.gradle/caches/transforms-3/c0645c60be7b2a115a3d0a285c408505/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/223c072e2020e7ce37359460586e10f4/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/02d250e6a9644dfc526404b64e5d2a77/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/3752947ac56a7224c4cc12ab36dd6e80/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/66e320c75c0af52a7688f253911fd38e/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/sanpaper/.gradle/caches/transforms-3/66bf956c3596310d9b739ad533f69e96/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/sanpaper/.gradle/caches/transforms-3/ea438289e1f219af4d8fba7125b891fd/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.3.0] /Users/sanpaper/.gradle/caches/transforms-3/5dcf30ae0e5779f874264c04d1c821d1/transformed/jetified-ahbottomnavigation-3.3.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /Users/sanpaper/.gradle/caches/transforms-3/0d1cedaaf8977fa33748e8c7c8b17286/transformed/material-1.2.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-view:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/430ef5a0e45c49969d74c1f88d5f7d9e/transformed/jetified-camera-view-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/sanpaper/.gradle/caches/transforms-3/08cd48b22a562e83098487322e834aea/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/8193dec7fe3e2d420240505ce4468c82/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.mlkit:barcode-scanning:17.0.0] /Users/sanpaper/.gradle/caches/transforms-3/efee5d8e38e6ca7b506338ea36811bef/transformed/jetified-barcode-scanning-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/sanpaper/.gradle/caches/transforms-3/b749fb4d1557b9641a0dd4022c0c0495/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/bbc32d6ac4bbefe74bc092dfa0fbb06a/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/a1e4510308f4438f54b61a9bd4622947/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/sanpaper/.gradle/caches/transforms-3/f5e77a7504c0c137003d9b88f7bae1a5/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/8e2a006107874e9bebf1a1e80f81dcf9/transformed/jetified-camera-lifecycle-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-video:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/bcd43870074d5cba55d65ca7573b7bdb/transformed/jetified-camera-video-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-core:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/553bfa3c3369f6bcb8847e788186e8c9/transformed/jetified-camera-core-1.1.0-beta02/AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/sanpaper/.gradle/caches/transforms-3/f80a59bb2c108ea0844cb2316cb30e02/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/ec95836653376f6648c13679023db54e/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/sanpaper/.gradle/caches/transforms-3/d53f4bb5f31267ed86ff0c4939c35b5d/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/f93ceb6562b8b8acfc8dec1ca8cd4afd/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/c0a649779c192f75f3f05643b84225e0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/sanpaper/.gradle/caches/transforms-3/a5e46dd853dd3d23fde279209e39d074/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/63d67d43c0b76eea040631b9afae5b5f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/339600c2cc3f71e7ae24aa9ddd03448f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/194c9dbb0abbd6d02b83aee7b46db557/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/sanpaper/.gradle/caches/transforms-3/c7e095119c509d55a843792d77bee372/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/sanpaper/.gradle/caches/transforms-3/6bc00c88c3277c4955d45b0b0d3f0997/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/615af6441996c4cfacc08da5714466de/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/sanpaper/.gradle/caches/transforms-3/444f451dc9afc02433c20f86fb735de1/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/789e5fb9bc64498c721b2bb614c8afd8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/2fa78177ca46379a0e41e7790c83476e/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/9b86df3de063554b36b98fe66d1b32b1/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/63bc932de41b554686ab093524bb16e9/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/b098157c9be912d79a6d8b8d0f09b38e/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/0b52ed923527efbe67d785e90548f18a/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/37dbf8140a32babb86be4e383ddf311f/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/82a86dc053bfe2d854847b4c1e0ea85b/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/8fc4fea1dc94fc89f4e07f3236ef1b80/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/f1a2f01c9271ad5f0b9b273764fe92a5/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/9a007eb24b06b69dd158360a0ec5659f/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/6cbe3f15fb9e1c2f52049f211e9016d7/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /Users/sanpaper/.gradle/caches/transforms-3/41a184f4bf7d25ee55d561ff913a6db1/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/6586c366071cda1ace8a0b027ccc64c4/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/71048b2276b8bf8c4bd0f4aba063adea/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/9e0038b1f19385d05e4a49b670886768/transformed/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/13c86b130dea57196c639d767ad56312/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/a002015be24c4f5145bd3f8ebb4d53a8/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/f077bca3c79d905ea0cad7432a9b93b6/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/ef867f5cc56d627c552b678d5062367e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/0988379b54c628172ba7e195c551fbc5/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/sanpaper/.gradle/caches/transforms-3/b49f2e6de50e2871968b974d5e3bcec7/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/sanpaper/.gradle/caches/transforms-3/fe5ca8eb83c36d1bf5db72f7ae133cb6/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/sanpaper/.gradle/caches/transforms-3/6310c902004402511631a71cd4babaf5/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/72882c5d71d3cdfd53da07c5b09359aa/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/6e94e44d4f12060b392b82bddf92b52c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/0362f19f95d5d9768478160cef7d4b37/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/99e8d18e0e79c973c3add282307fa5b0/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:4.3.1] /Users/sanpaper/.gradle/caches/transforms-3/953d48f7923818c5d37324462db7f631/transformed/jetified-appcenter-react-native-4.3.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.microsoft.appcenter:appcenter-analytics:4.3.1] /Users/sanpaper/.gradle/caches/transforms-3/fa72f145cc65e783ee503a4c30f1a79c/transformed/jetified-appcenter-analytics-4.3.1/AndroidManifest.xml:6:1-15:12
+MERGED from [com.microsoft.appcenter:appcenter-crashes:4.3.1] /Users/sanpaper/.gradle/caches/transforms-3/2ef8503e89dce787b7c57dc2e197adde/transformed/jetified-appcenter-crashes-4.3.1/AndroidManifest.xml:6:1-15:12
+MERGED from [com.microsoft.appcenter:appcenter:4.3.1] /Users/sanpaper/.gradle/caches/transforms-3/0ebed41832a99bd49841b6a892669b49/transformed/jetified-appcenter-4.3.1/AndroidManifest.xml:6:1-18:12
+MERGED from [com.github.clans:fab:1.6.4] /Users/sanpaper/.gradle/caches/transforms-3/cac9a9b719a0b464398d52ef39cd3c08/transformed/jetified-fab-1.6.4/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/599ae36b30ab957f8dab212da40e6fe6/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/f81afd4ce1949765c7c5a7ebbbdfdfe0/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/sanpaper/.gradle/caches/transforms-3/2b0261667aeb132e2dda11ba0557d244/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.93.0] /Users/sanpaper/.gradle/caches/transforms-3/d9b9abd302c8ab8b0f3f2baf084a5db3/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.93.0] /Users/sanpaper/.gradle/caches/transforms-3/d9b9abd302c8ab8b0f3f2baf084a5db3/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-67
+MERGED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.microsoft.appcenter:appcenter:4.3.1] /Users/sanpaper/.gradle/caches/transforms-3/0ebed41832a99bd49841b6a892669b49/transformed/jetified-appcenter-4.3.1/AndroidManifest.xml:15:5-67
+MERGED from [com.microsoft.appcenter:appcenter:4.3.1] /Users/sanpaper/.gradle/caches/transforms-3/0ebed41832a99bd49841b6a892669b49/transformed/jetified-appcenter-4.3.1/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:6:22-76
+uses-feature#android.hardware.camera
+ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:7:5-85
+	android:required
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:7:58-82
+	android:name
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:7:19-57
+uses-feature#android.hardware.camera.front
+ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:8:5-91
+	android:required
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:8:64-88
+	android:name
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:8:19-63
+application
+ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from [:react-native-community_datetimepicker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:5-31:19
+MERGED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:5-31:19
+MERGED from [:react-native-navigation] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-navigation/lib/android/app/build/intermediates/merged_manifest/reactNative63Debug/AndroidManifest.xml:9:5-13:19
+MERGED from [:react-native-navigation] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-navigation/lib/android/app/build/intermediates/merged_manifest/reactNative63Debug/AndroidManifest.xml:9:5-13:19
+MERGED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:5-43:19
+MERGED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:5-43:19
+MERGED from [com.facebook.react:react-native:0.65.1] /Users/sanpaper/.gradle/caches/transforms-3/c22b0dfc2d455c0e7d11ca8c6ae8c92c/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.65.1] /Users/sanpaper/.gradle/caches/transforms-3/c22b0dfc2d455c0e7d11ca8c6ae8c92c/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/sanpaper/.gradle/caches/transforms-3/c0645c60be7b2a115a3d0a285c408505/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/sanpaper/.gradle/caches/transforms-3/c0645c60be7b2a115a3d0a285c408505/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/sanpaper/.gradle/caches/transforms-3/ea438289e1f219af4d8fba7125b891fd/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/sanpaper/.gradle/caches/transforms-3/ea438289e1f219af4d8fba7125b891fd/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.3.0] /Users/sanpaper/.gradle/caches/transforms-3/5dcf30ae0e5779f874264c04d1c821d1/transformed/jetified-ahbottomnavigation-3.3.0/AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.3.0] /Users/sanpaper/.gradle/caches/transforms-3/5dcf30ae0e5779f874264c04d1c821d1/transformed/jetified-ahbottomnavigation-3.3.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /Users/sanpaper/.gradle/caches/transforms-3/0d1cedaaf8977fa33748e8c7c8b17286/transformed/material-1.2.0-alpha03/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /Users/sanpaper/.gradle/caches/transforms-3/0d1cedaaf8977fa33748e8c7c8b17286/transformed/material-1.2.0-alpha03/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/sanpaper/.gradle/caches/transforms-3/b749fb4d1557b9641a0dd4022c0c0495/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/sanpaper/.gradle/caches/transforms-3/b749fb4d1557b9641a0dd4022c0c0495/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:30:5-34:19
+MERGED from [androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:30:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/553bfa3c3369f6bcb8847e788186e8c9/transformed/jetified-camera-core-1.1.0-beta02/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/553bfa3c3369f6bcb8847e788186e8c9/transformed/jetified-camera-core-1.1.0-beta02/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/sanpaper/.gradle/caches/transforms-3/c7e095119c509d55a843792d77bee372/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/sanpaper/.gradle/caches/transforms-3/c7e095119c509d55a843792d77bee372/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/sanpaper/.gradle/caches/transforms-3/6bc00c88c3277c4955d45b0b0d3f0997/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/sanpaper/.gradle/caches/transforms-3/6bc00c88c3277c4955d45b0b0d3f0997/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/615af6441996c4cfacc08da5714466de/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/615af6441996c4cfacc08da5714466de/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/sanpaper/.gradle/caches/transforms-3/444f451dc9afc02433c20f86fb735de1/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/sanpaper/.gradle/caches/transforms-3/444f451dc9afc02433c20f86fb735de1/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/789e5fb9bc64498c721b2bb614c8afd8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/789e5fb9bc64498c721b2bb614c8afd8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] /Users/sanpaper/.gradle/caches/transforms-3/41a184f4bf7d25ee55d561ff913a6db1/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/sanpaper/.gradle/caches/transforms-3/41a184f4bf7d25ee55d561ff913a6db1/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/f077bca3c79d905ea0cad7432a9b93b6/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/f077bca3c79d905ea0cad7432a9b93b6/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.clans:fab:1.6.4] /Users/sanpaper/.gradle/caches/transforms-3/cac9a9b719a0b464398d52ef39cd3c08/transformed/jetified-fab-1.6.4/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Users/sanpaper/.gradle/caches/transforms-3/cac9a9b719a0b464398d52ef39cd3c08/transformed/jetified-fab-1.6.4/AndroidManifest.xml:12:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/sanpaper/.gradle/caches/transforms-3/2b0261667aeb132e2dda11ba0557d244/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/sanpaper/.gradle/caches/transforms-3/2b0261667aeb132e2dda11ba0557d244/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/sanpaper/.gradle/caches/transforms-3/41a184f4bf7d25ee55d561ff913a6db1/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:12:7-39
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:12:7-39
+	tools:ignore
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:14:7-52
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:14:7-52
+	tools:targetApi
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:13:7-41
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:15:7-34
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:16:7-38
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:16:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:11:7-38
+activity#com.sanspaper.form.MainActivity
+ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:17:7-28:18
+	android:label
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:20:9-41
+	android:launchMode
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:22:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:23:9-51
+	android:exported
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:19:9-32
+	android:configChanges
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:21:9-86
+	android:name
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:26:23-70
+uses-sdk
+INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-flipper] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-flipper/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-flipper] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-flipper/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [com.facebook.flipper:flipper:0.93.0] /Users/sanpaper/.gradle/caches/transforms-3/d9b9abd302c8ab8b0f3f2baf084a5db3/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.93.0] /Users/sanpaper/.gradle/caches/transforms-3/d9b9abd302c8ab8b0f3f2baf084a5db3/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.93.0] /Users/sanpaper/.gradle/caches/transforms-3/9b2580e987421153a769ae2fb0176bb0/transformed/jetified-flipper-network-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.93.0] /Users/sanpaper/.gradle/caches/transforms-3/9b2580e987421153a769ae2fb0176bb0/transformed/jetified-flipper-network-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.93.0] /Users/sanpaper/.gradle/caches/transforms-3/2a7817c9f23da5c4230d9c3baf21c690/transformed/jetified-flipper-fresco-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.93.0] /Users/sanpaper/.gradle/caches/transforms-3/2a7817c9f23da5c4230d9c3baf21c690/transformed/jetified-flipper-fresco-plugin-0.93.0/AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sanpaper/.gradle/caches/transforms-3/e4c3b6607461910e1763f09a1a660a31/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sanpaper/.gradle/caches/transforms-3/e4c3b6607461910e1763f09a1a660a31/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-sqlite-storage] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-sqlite-storage/platforms/android-native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-sqlite-storage] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-sqlite-storage/platforms/android-native/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_checkbox] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/checkbox/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_checkbox] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/checkbox/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:appcenter] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/appcenter/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:appcenter] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/appcenter/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:appcenter-analytics] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/appcenter-analytics/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:appcenter-analytics] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/appcenter-analytics/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:appcenter-crashes] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/appcenter-crashes/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:appcenter-crashes] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/appcenter-crashes/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fs] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fs] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-geolocation-service/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-geolocation-service/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-navigation] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-navigation/lib/android/app/build/intermediates/merged_manifest/reactNative63Debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-navigation] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-navigation/lib/android/app/build/intermediates/merged_manifest/reactNative63Debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-signature-capture] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-signature-capture/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-signature-capture] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-signature-capture/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:vision-camera-code-scanner] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/vision-camera-code-scanner/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:vision-camera-code-scanner] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/vision-camera-code-scanner/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vision-camera] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-vision-camera/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vision-camera] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-vision-camera/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.65.1] /Users/sanpaper/.gradle/caches/transforms-3/c22b0dfc2d455c0e7d11ca8c6ae8c92c/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.65.1] /Users/sanpaper/.gradle/caches/transforms-3/c22b0dfc2d455c0e7d11ca8c6ae8c92c/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.wix-playground:reflow-animator:1.0.6] /Users/sanpaper/.gradle/caches/transforms-3/dc5e3795f51b9ab44faa1998a4a6ff60/transformed/jetified-reflow-animator-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:reflow-animator:1.0.6] /Users/sanpaper/.gradle/caches/transforms-3/dc5e3795f51b9ab44faa1998a4a6ff60/transformed/jetified-reflow-animator-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/9f9486c360f8703c12d48ef667ae1174/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/9f9486c360f8703c12d48ef667ae1174/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/e83efb6477e5ee3f81534ab23c1cec8a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/e83efb6477e5ee3f81534ab23c1cec8a/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/96ef13d57aea044bcbc9fbf4dde293e4/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/96ef13d57aea044bcbc9fbf4dde293e4/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/sanpaper/.gradle/caches/transforms-3/7eb4fe937e073d12f1043dcd8b2a8207/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/sanpaper/.gradle/caches/transforms-3/7eb4fe937e073d12f1043dcd8b2a8207/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-reanimated/android/build/.transforms/4c9e3d220e3386bd173f21542b98d9ae/transformed/jetified-react-native-reanimated-65-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-reanimated/android/build/.transforms/4c9e3d220e3386bd173f21542b98d9ae/transformed/jetified-react-native-reanimated-65-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/0da29490c11f002186d1d2c259d973bd/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/0da29490c11f002186d1d2c259d973bd/transformed/jetified-flipper-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/39f025b01ec15ba91e69f8e8ebff3b8e/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/39f025b01ec15ba91e69f8e8ebff3b8e/transformed/jetified-stetho-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/88c02a1b44b274b5e5e12eece112b867/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/88c02a1b44b274b5e5e12eece112b867/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/d091d14ad245babf4dfffd2bc293a2e2/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/d091d14ad245babf4dfffd2bc293a2e2/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/f7f082169afe124cbf5ccf3aa157d570/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/f7f082169afe124cbf5ccf3aa157d570/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/de2124d0fc447402fae60241c354d10f/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/de2124d0fc447402fae60241c354d10f/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/c8281333b20383a5386983f2a2d12b1d/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/c8281333b20383a5386983f2a2d12b1d/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/5ba4f2738a046190a9b809b0132cea46/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/5ba4f2738a046190a9b809b0132cea46/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/513961a8f9c62187d652f2ef872852ed/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/513961a8f9c62187d652f2ef872852ed/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/c0d58bf0d3dda6054a20ed7a669f3e1d/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/c0d58bf0d3dda6054a20ed7a669f3e1d/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/sanpaper/.gradle/caches/transforms-3/c0645c60be7b2a115a3d0a285c408505/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/sanpaper/.gradle/caches/transforms-3/c0645c60be7b2a115a3d0a285c408505/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/223c072e2020e7ce37359460586e10f4/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/223c072e2020e7ce37359460586e10f4/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/02d250e6a9644dfc526404b64e5d2a77/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/02d250e6a9644dfc526404b64e5d2a77/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/3752947ac56a7224c4cc12ab36dd6e80/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/3752947ac56a7224c4cc12ab36dd6e80/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/66e320c75c0af52a7688f253911fd38e/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/66e320c75c0af52a7688f253911fd38e/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/sanpaper/.gradle/caches/transforms-3/66bf956c3596310d9b739ad533f69e96/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/sanpaper/.gradle/caches/transforms-3/66bf956c3596310d9b739ad533f69e96/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/sanpaper/.gradle/caches/transforms-3/ea438289e1f219af4d8fba7125b891fd/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/sanpaper/.gradle/caches/transforms-3/ea438289e1f219af4d8fba7125b891fd/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.3.0] /Users/sanpaper/.gradle/caches/transforms-3/5dcf30ae0e5779f874264c04d1c821d1/transformed/jetified-ahbottomnavigation-3.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.3.0] /Users/sanpaper/.gradle/caches/transforms-3/5dcf30ae0e5779f874264c04d1c821d1/transformed/jetified-ahbottomnavigation-3.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /Users/sanpaper/.gradle/caches/transforms-3/0d1cedaaf8977fa33748e8c7c8b17286/transformed/material-1.2.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /Users/sanpaper/.gradle/caches/transforms-3/0d1cedaaf8977fa33748e8c7c8b17286/transformed/material-1.2.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-view:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/430ef5a0e45c49969d74c1f88d5f7d9e/transformed/jetified-camera-view-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-view:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/430ef5a0e45c49969d74c1f88d5f7d9e/transformed/jetified-camera-view-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/sanpaper/.gradle/caches/transforms-3/08cd48b22a562e83098487322e834aea/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/sanpaper/.gradle/caches/transforms-3/08cd48b22a562e83098487322e834aea/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/8193dec7fe3e2d420240505ce4468c82/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/8193dec7fe3e2d420240505ce4468c82/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.mlkit:barcode-scanning:17.0.0] /Users/sanpaper/.gradle/caches/transforms-3/efee5d8e38e6ca7b506338ea36811bef/transformed/jetified-barcode-scanning-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:barcode-scanning:17.0.0] /Users/sanpaper/.gradle/caches/transforms-3/efee5d8e38e6ca7b506338ea36811bef/transformed/jetified-barcode-scanning-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/sanpaper/.gradle/caches/transforms-3/b749fb4d1557b9641a0dd4022c0c0495/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/sanpaper/.gradle/caches/transforms-3/b749fb4d1557b9641a0dd4022c0c0495/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/bbc32d6ac4bbefe74bc092dfa0fbb06a/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/bbc32d6ac4bbefe74bc092dfa0fbb06a/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/a1e4510308f4438f54b61a9bd4622947/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/a1e4510308f4438f54b61a9bd4622947/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/sanpaper/.gradle/caches/transforms-3/f5e77a7504c0c137003d9b88f7bae1a5/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/sanpaper/.gradle/caches/transforms-3/f5e77a7504c0c137003d9b88f7bae1a5/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/8e2a006107874e9bebf1a1e80f81dcf9/transformed/jetified-camera-lifecycle-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/8e2a006107874e9bebf1a1e80f81dcf9/transformed/jetified-camera-lifecycle-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-video:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/bcd43870074d5cba55d65ca7573b7bdb/transformed/jetified-camera-video-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-video:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/bcd43870074d5cba55d65ca7573b7bdb/transformed/jetified-camera-video-1.1.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/553bfa3c3369f6bcb8847e788186e8c9/transformed/jetified-camera-core-1.1.0-beta02/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera:camera-core:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/553bfa3c3369f6bcb8847e788186e8c9/transformed/jetified-camera-core-1.1.0-beta02/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/sanpaper/.gradle/caches/transforms-3/f80a59bb2c108ea0844cb2316cb30e02/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/sanpaper/.gradle/caches/transforms-3/f80a59bb2c108ea0844cb2316cb30e02/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/ec95836653376f6648c13679023db54e/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/ec95836653376f6648c13679023db54e/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/sanpaper/.gradle/caches/transforms-3/d53f4bb5f31267ed86ff0c4939c35b5d/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/sanpaper/.gradle/caches/transforms-3/d53f4bb5f31267ed86ff0c4939c35b5d/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/f93ceb6562b8b8acfc8dec1ca8cd4afd/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/f93ceb6562b8b8acfc8dec1ca8cd4afd/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/c0a649779c192f75f3f05643b84225e0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/c0a649779c192f75f3f05643b84225e0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/sanpaper/.gradle/caches/transforms-3/a5e46dd853dd3d23fde279209e39d074/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/sanpaper/.gradle/caches/transforms-3/a5e46dd853dd3d23fde279209e39d074/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/63d67d43c0b76eea040631b9afae5b5f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/63d67d43c0b76eea040631b9afae5b5f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/339600c2cc3f71e7ae24aa9ddd03448f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/339600c2cc3f71e7ae24aa9ddd03448f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/194c9dbb0abbd6d02b83aee7b46db557/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/194c9dbb0abbd6d02b83aee7b46db557/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/sanpaper/.gradle/caches/transforms-3/c7e095119c509d55a843792d77bee372/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/sanpaper/.gradle/caches/transforms-3/c7e095119c509d55a843792d77bee372/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/sanpaper/.gradle/caches/transforms-3/6bc00c88c3277c4955d45b0b0d3f0997/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/sanpaper/.gradle/caches/transforms-3/6bc00c88c3277c4955d45b0b0d3f0997/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/615af6441996c4cfacc08da5714466de/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/615af6441996c4cfacc08da5714466de/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/sanpaper/.gradle/caches/transforms-3/444f451dc9afc02433c20f86fb735de1/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/sanpaper/.gradle/caches/transforms-3/444f451dc9afc02433c20f86fb735de1/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/789e5fb9bc64498c721b2bb614c8afd8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/789e5fb9bc64498c721b2bb614c8afd8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/2fa78177ca46379a0e41e7790c83476e/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/2fa78177ca46379a0e41e7790c83476e/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/9b86df3de063554b36b98fe66d1b32b1/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/9b86df3de063554b36b98fe66d1b32b1/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/63bc932de41b554686ab093524bb16e9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/63bc932de41b554686ab093524bb16e9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/b098157c9be912d79a6d8b8d0f09b38e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/b098157c9be912d79a6d8b8d0f09b38e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/0b52ed923527efbe67d785e90548f18a/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/0b52ed923527efbe67d785e90548f18a/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/37dbf8140a32babb86be4e383ddf311f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/37dbf8140a32babb86be4e383ddf311f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/82a86dc053bfe2d854847b4c1e0ea85b/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/82a86dc053bfe2d854847b4c1e0ea85b/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/8fc4fea1dc94fc89f4e07f3236ef1b80/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/8fc4fea1dc94fc89f4e07f3236ef1b80/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/f1a2f01c9271ad5f0b9b273764fe92a5/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/f1a2f01c9271ad5f0b9b273764fe92a5/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/9a007eb24b06b69dd158360a0ec5659f/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/9a007eb24b06b69dd158360a0ec5659f/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/6cbe3f15fb9e1c2f52049f211e9016d7/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/6cbe3f15fb9e1c2f52049f211e9016d7/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /Users/sanpaper/.gradle/caches/transforms-3/41a184f4bf7d25ee55d561ff913a6db1/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/sanpaper/.gradle/caches/transforms-3/41a184f4bf7d25ee55d561ff913a6db1/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/6586c366071cda1ace8a0b027ccc64c4/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/6586c366071cda1ace8a0b027ccc64c4/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/71048b2276b8bf8c4bd0f4aba063adea/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/71048b2276b8bf8c4bd0f4aba063adea/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/9e0038b1f19385d05e4a49b670886768/transformed/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/9e0038b1f19385d05e4a49b670886768/transformed/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/13c86b130dea57196c639d767ad56312/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/13c86b130dea57196c639d767ad56312/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/a002015be24c4f5145bd3f8ebb4d53a8/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/a002015be24c4f5145bd3f8ebb4d53a8/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/f077bca3c79d905ea0cad7432a9b93b6/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/f077bca3c79d905ea0cad7432a9b93b6/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/ef867f5cc56d627c552b678d5062367e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/ef867f5cc56d627c552b678d5062367e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/0988379b54c628172ba7e195c551fbc5/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/0988379b54c628172ba7e195c551fbc5/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/sanpaper/.gradle/caches/transforms-3/b49f2e6de50e2871968b974d5e3bcec7/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/sanpaper/.gradle/caches/transforms-3/b49f2e6de50e2871968b974d5e3bcec7/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/sanpaper/.gradle/caches/transforms-3/fe5ca8eb83c36d1bf5db72f7ae133cb6/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/sanpaper/.gradle/caches/transforms-3/fe5ca8eb83c36d1bf5db72f7ae133cb6/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/sanpaper/.gradle/caches/transforms-3/6310c902004402511631a71cd4babaf5/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/sanpaper/.gradle/caches/transforms-3/6310c902004402511631a71cd4babaf5/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/72882c5d71d3cdfd53da07c5b09359aa/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/72882c5d71d3cdfd53da07c5b09359aa/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/6e94e44d4f12060b392b82bddf92b52c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/6e94e44d4f12060b392b82bddf92b52c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/0362f19f95d5d9768478160cef7d4b37/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sanpaper/.gradle/caches/transforms-3/0362f19f95d5d9768478160cef7d4b37/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/99e8d18e0e79c973c3add282307fa5b0/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sanpaper/.gradle/caches/transforms-3/99e8d18e0e79c973c3add282307fa5b0/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:4.3.1] /Users/sanpaper/.gradle/caches/transforms-3/953d48f7923818c5d37324462db7f631/transformed/jetified-appcenter-react-native-4.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:4.3.1] /Users/sanpaper/.gradle/caches/transforms-3/953d48f7923818c5d37324462db7f631/transformed/jetified-appcenter-react-native-4.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:4.3.1] /Users/sanpaper/.gradle/caches/transforms-3/fa72f145cc65e783ee503a4c30f1a79c/transformed/jetified-appcenter-analytics-4.3.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:4.3.1] /Users/sanpaper/.gradle/caches/transforms-3/fa72f145cc65e783ee503a4c30f1a79c/transformed/jetified-appcenter-analytics-4.3.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:4.3.1] /Users/sanpaper/.gradle/caches/transforms-3/2ef8503e89dce787b7c57dc2e197adde/transformed/jetified-appcenter-crashes-4.3.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:4.3.1] /Users/sanpaper/.gradle/caches/transforms-3/2ef8503e89dce787b7c57dc2e197adde/transformed/jetified-appcenter-crashes-4.3.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter:4.3.1] /Users/sanpaper/.gradle/caches/transforms-3/0ebed41832a99bd49841b6a892669b49/transformed/jetified-appcenter-4.3.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter:4.3.1] /Users/sanpaper/.gradle/caches/transforms-3/0ebed41832a99bd49841b6a892669b49/transformed/jetified-appcenter-4.3.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/sanpaper/.gradle/caches/transforms-3/cac9a9b719a0b464398d52ef39cd3c08/transformed/jetified-fab-1.6.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/sanpaper/.gradle/caches/transforms-3/cac9a9b719a0b464398d52ef39cd3c08/transformed/jetified-fab-1.6.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/599ae36b30ab957f8dab212da40e6fe6/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/sanpaper/.gradle/caches/transforms-3/599ae36b30ab957f8dab212da40e6fe6/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/f81afd4ce1949765c7c5a7ebbbdfdfe0/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/sanpaper/.gradle/caches/transforms-3/f81afd4ce1949765c7c5a7ebbbdfdfe0/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/sanpaper/.gradle/caches/transforms-3/2b0261667aeb132e2dda11ba0557d244/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/sanpaper/.gradle/caches/transforms-3/2b0261667aeb132e2dda11ba0557d244/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml:11:9-86
+MERGED from [:react-native-navigation] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-navigation/lib/android/app/build/intermediates/merged_manifest/reactNative63Debug/AndroidManifest.xml:10:9-12:40
+MERGED from [:react-native-navigation] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-navigation/lib/android/app/build/intermediates/merged_manifest/reactNative63Debug/AndroidManifest.xml:10:9-12:40
+	android:exported
+		ADDED from [:react-native-navigation] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-navigation/lib/android/app/build/intermediates/merged_manifest/reactNative63Debug/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from /Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.93.0] /Users/sanpaper/.gradle/caches/transforms-3/d9b9abd302c8ab8b0f3f2baf084a5db3/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:16:5-76
+MERGED from [:react-native-community_netinfo] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:react-native-community_netinfo] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:5-76
+MERGED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.93.0] /Users/sanpaper/.gradle/caches/transforms-3/d9b9abd302c8ab8b0f3f2baf084a5db3/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-community_netinfo] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:5-79
+MERGED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.microsoft.appcenter:appcenter:4.3.1] /Users/sanpaper/.gradle/caches/transforms-3/0ebed41832a99bd49841b6a892669b49/transformed/jetified-appcenter-4.3.1/AndroidManifest.xml:16:5-79
+MERGED from [com.microsoft.appcenter:appcenter:4.3.1] /Users/sanpaper/.gradle/caches/transforms-3/0ebed41832a99bd49841b6a892669b49/transformed/jetified-appcenter-4.3.1/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-fs] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+MERGED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-81
+MERGED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-81
+MERGED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:5-81
+MERGED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from [:react-native-fs] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-78
+queries
+ADDED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:15
+MERGED from [androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:24:5-28:15
+MERGED from [androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:24:5-28:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:21-70
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-26:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-30:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-60
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:22-65
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:9-42:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-62
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/sanpaper/.gradle/caches/transforms-3/b749fb4d1557b9641a0dd4022c0c0495/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/sanpaper/.gradle/caches/transforms-3/b749fb4d1557b9641a0dd4022c0c0495/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:13:17-120
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:16.5.0] /Users/sanpaper/.gradle/caches/transforms-3/b749fb4d1557b9641a0dd4022c0c0495/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:16.5.0] /Users/sanpaper/.gradle/caches/transforms-3/b749fb4d1557b9641a0dd4022c0c0495/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:16.5.0] /Users/sanpaper/.gradle/caches/transforms-3/b749fb4d1557b9641a0dd4022c0c0495/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:21:17-120
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
+intent#action:name:androidx.camera.extensions.action.VENDOR_ACTION
+ADDED from [androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:25:9-27:18
+action#androidx.camera.extensions.action.VENDOR_ACTION
+ADDED from [androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:26:13-86
+	android:name
+		ADDED from [androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:26:21-83
+uses-library#androidx.camera.extensions.impl
+ADDED from [androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:31:9-33:40
+	android:required
+		ADDED from [androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:32:13-59
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:26:9-35:19
+MERGED from [androidx.camera:camera-core:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/553bfa3c3369f6bcb8847e788186e8c9/transformed/jetified-camera-core-1.1.0-beta02/AndroidManifest.xml:31:9-35:45
+MERGED from [androidx.camera:camera-core:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/553bfa3c3369f6bcb8847e788186e8c9/transformed/jetified-camera-core-1.1.0-beta02/AndroidManifest.xml:31:9-35:45
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:31:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:28:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:29:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:30:13-42
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:27:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:32:13-34:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:34:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:33:17-103
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/615af6441996c4cfacc08da5714466de/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/615af6441996c4cfacc08da5714466de/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/615af6441996c4cfacc08da5714466de/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/615af6441996c4cfacc08da5714466de/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/789e5fb9bc64498c721b2bb614c8afd8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/789e5fb9bc64498c721b2bb614c8afd8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/789e5fb9bc64498c721b2bb614c8afd8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:24:13-58

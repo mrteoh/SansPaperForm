@@ -1,0 +1,276 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sanspaper.form"
+4    android:versionCode="2"
+5    android:versionName="1.0.3" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="30" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:5:5-64
+13-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:5:22-62
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:6:5-79
+14-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:6:22-76
+15
+16    <uses-feature
+16-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:7:5-85
+17        android:name="android.hardware.camera"
+17-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:7:19-57
+18        android:required="false" />
+18-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:7:58-82
+19    <uses-feature
+19-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:8:5-91
+20        android:name="android.hardware.camera.front"
+20-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:8:19-63
+21        android:required="false" />
+21-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:8:64-88
+22
+23    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+23-->[com.facebook.flipper:flipper:0.93.0] /Users/sanpaper/.gradle/caches/transforms-3/d9b9abd302c8ab8b0f3f2baf084a5db3/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:16:5-76
+23-->[com.facebook.flipper:flipper:0.93.0] /Users/sanpaper/.gradle/caches/transforms-3/d9b9abd302c8ab8b0f3f2baf084a5db3/transformed/jetified-flipper-0.93.0/AndroidManifest.xml:16:22-73
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+24-->[:react-native-community_netinfo] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+24-->[:react-native-community_netinfo] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+25    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+25-->[:react-native-fs] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+25-->[:react-native-fs] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-78
+26
+27    <queries>
+27-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:15
+28        <intent>
+28-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:18
+29            <action android:name="android.media.action.IMAGE_CAPTURE" />
+29-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-73
+29-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:21-70
+30        </intent>
+31        <intent>
+31-->[androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:25:9-27:18
+32            <action android:name="androidx.camera.extensions.action.VENDOR_ACTION" />
+32-->[androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:26:13-86
+32-->[androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:26:21-83
+33        </intent>
+34    </queries> <!-- Required to access Google Play Licensing -->
+35    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+35-->[:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-73
+35-->[:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-70
+36    <!--
+37         Required to keep CPU alive while downloading files
+38        (NOT to keep screen awake)
+39    -->
+40    <uses-permission android:name="android.permission.WAKE_LOCK" />
+40-->[:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:5-68
+40-->[:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:22-65
+41
+42    <application
+42-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:10:5-29:19
+43        android:name="com.sanspaper.form.MainApplication"
+43-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:11:7-38
+44        android:allowBackup="false"
+44-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:15:7-34
+45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+45-->[androidx.core:core:1.3.2] /Users/sanpaper/.gradle/caches/transforms-3/41a184f4bf7d25ee55d561ff913a6db1/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+46        android:debuggable="true"
+47        android:icon="@mipmap/ic_launcher"
+47-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:13:7-41
+48        android:label="@string/app_name"
+48-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:12:7-39
+49        android:roundIcon="@mipmap/ic_launcher_round"
+49-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:14:7-52
+50        android:theme="@style/AppTheme"
+50-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:16:7-38
+51        android:usesCleartextTraffic="true" >
+51-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml:8:9-44
+52        <activity
+52-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml:11:9-86
+53            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+53-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/debug/AndroidManifest.xml:11:19-83
+54            android:exported="false" />
+54-->[:react-native-navigation] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-navigation/lib/android/app/build/intermediates/merged_manifest/reactNative63Debug/AndroidManifest.xml:12:13-37
+55        <activity
+55-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:17:7-28:18
+56            android:name="com.sanspaper.form.MainActivity"
+56-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:18:9-37
+57            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+57-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:21:9-86
+58            android:exported="true"
+58-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:19:9-32
+59            android:label="@string/app_name"
+59-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:20:9-41
+60            android:launchMode="singleTask"
+60-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:22:9-40
+61            android:windowSoftInputMode="adjustResize" >
+61-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:23:9-51
+62            <intent-filter>
+62-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:24:9-27:25
+63                <action android:name="android.intent.action.MAIN" />
+63-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:25:13-65
+63-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:25:21-62
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:26:13-73
+65-->/Users/sanpaper/Documents/Github/SansPaperForm/android/app/src/main/AndroidManifest.xml:26:23-70
+66            </intent-filter>
+67        </activity>
+68
+69        <provider
+69-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-26:20
+70            android:name="androidx.core.content.FileProvider"
+70-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-62
+71            android:authorities="com.sanspaper.form.provider"
+71-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-60
+72            android:exported="false"
+72-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+73            android:grantUriPermissions="true" >
+73-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-47
+74            <meta-data
+74-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:58
+75                android:name="android.support.FILE_PROVIDER_PATHS"
+75-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+76                android:resource="@xml/provider_paths" />
+76-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-55
+77        </provider>
+78
+79        <activity
+79-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-30:72
+80            android:name="com.yalantis.ucrop.UCropActivity"
+80-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-60
+81            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+81-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-69
+82
+83        <provider
+83-->[:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:9-42:20
+84            android:name="com.RNFetchBlob.Utils.FileProvider"
+84-->[:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-62
+85            android:authorities="com.sanspaper.form.provider"
+85-->[:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-60
+86            android:exported="false"
+86-->[:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-37
+87            android:grantUriPermissions="true" >
+87-->[:rn-fetch-blob] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-47
+88            <meta-data
+88-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:58
+89                android:name="android.support.FILE_PROVIDER_PATHS"
+89-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+90                android:resource="@xml/provider_paths" />
+90-->[:react-native-image-crop-picker] /Users/sanpaper/Documents/Github/SansPaperForm/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-55
+91        </provider>
+92
+93        <service
+93-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:9:9-15:19
+94            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+94-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:10:13-91
+95            android:directBootAware="true"
+95-->[com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:17:13-43
+96            android:exported="false" >
+96-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:11:13-37
+97            <meta-data
+97-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:12:13-14:85
+98                android:name="com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar"
+98-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:13:17-120
+99                android:value="com.google.firebase.components.ComponentRegistrar" />
+99-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.1] /Users/sanpaper/.gradle/caches/transforms-3/92a2772f8ddda89b80b42942f34a9388/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.1/AndroidManifest.xml:14:17-82
+100            <meta-data
+100-->[com.google.mlkit:vision-common:16.5.0] /Users/sanpaper/.gradle/caches/transforms-3/b749fb4d1557b9641a0dd4022c0c0495/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:12:13-14:85
+101                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+101-->[com.google.mlkit:vision-common:16.5.0] /Users/sanpaper/.gradle/caches/transforms-3/b749fb4d1557b9641a0dd4022c0c0495/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:13:17-124
+102                android:value="com.google.firebase.components.ComponentRegistrar" />
+102-->[com.google.mlkit:vision-common:16.5.0] /Users/sanpaper/.gradle/caches/transforms-3/b749fb4d1557b9641a0dd4022c0c0495/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:14:17-82
+103            <meta-data
+103-->[com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:20:13-22:85
+104                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+104-->[com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:21:17-120
+105                android:value="com.google.firebase.components.ComponentRegistrar" />
+105-->[com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:22:17-82
+106        </service>
+107
+108        <provider
+108-->[com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:9:9-13:38
+109            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+109-->[com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:10:13-78
+110            android:authorities="com.sanspaper.form.mlkitinitprovider"
+110-->[com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:11:13-69
+111            android:exported="false"
+111-->[com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:12:13-37
+112            android:initOrder="99" />
+112-->[com.google.mlkit:common:17.3.0] /Users/sanpaper/.gradle/caches/transforms-3/94f31ab42972a0f84e0737482c1488be/transformed/jetified-common-17.3.0/AndroidManifest.xml:13:13-35
+113
+114        <service
+114-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+115            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+115-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+116            android:exported="false" >
+116-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+117            <meta-data
+117-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+118                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+118-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+119                android:value="cct" />
+119-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/sanpaper/.gradle/caches/transforms-3/e98eac765e5ef706d46afcc2eb9106d8/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+120        </service>
+121        <service
+121-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+122            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+122-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+123            android:exported="false"
+123-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+124            android:permission="android.permission.BIND_JOB_SERVICE" >
+124-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+125        </service>
+126
+127        <receiver
+127-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+128            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+128-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
+129            android:exported="false" />
+129-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/sanpaper/.gradle/caches/transforms-3/135b8a721ea99e13a3d97f21e3185c6b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+130
+131        <uses-library
+131-->[androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:31:9-33:40
+132            android:name="androidx.camera.extensions.impl"
+132-->[androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:32:13-59
+133            android:required="false" />
+133-->[androidx.camera:camera-extensions:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/96558ae4f13a64fd3e1a3d33b135a99f/transformed/jetified-camera-extensions-1.1.0-beta02/AndroidManifest.xml:33:13-37
+134
+135        <service
+135-->[androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:26:9-35:19
+136            android:name="androidx.camera.core.impl.MetadataHolderService"
+136-->[androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:27:13-75
+137            android:enabled="false"
+137-->[androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:28:13-36
+138            android:exported="false" >
+138-->[androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:29:13-37
+139            <meta-data
+139-->[androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:32:13-34:89
+140                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+140-->[androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:33:17-103
+141                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+141-->[androidx.camera:camera-camera2:1.1.0-beta02] /Users/sanpaper/.gradle/caches/transforms-3/9f7db71909cc1205770923d89d8698a3/transformed/jetified-camera-camera2-1.1.0-beta02/AndroidManifest.xml:34:17-86
+142        </service>
+143
+144        <activity
+144-->[com.google.android.gms:play-services-base:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/615af6441996c4cfacc08da5714466de/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+145            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+145-->[com.google.android.gms:play-services-base:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/615af6441996c4cfacc08da5714466de/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+146            android:exported="false"
+146-->[com.google.android.gms:play-services-base:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/615af6441996c4cfacc08da5714466de/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+147            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+147-->[com.google.android.gms:play-services-base:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/615af6441996c4cfacc08da5714466de/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+148
+149        <meta-data
+149-->[com.google.android.gms:play-services-basement:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/789e5fb9bc64498c721b2bb614c8afd8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+150            android:name="com.google.android.gms.version"
+150-->[com.google.android.gms:play-services-basement:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/789e5fb9bc64498c721b2bb614c8afd8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
+151            android:value="@integer/google_play_services_version" />
+151-->[com.google.android.gms:play-services-basement:17.6.0] /Users/sanpaper/.gradle/caches/transforms-3/789e5fb9bc64498c721b2bb614c8afd8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+152    </application>
+153
+154</manifest>
